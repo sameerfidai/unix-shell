@@ -1,7 +1,7 @@
 A unix shell program.
 Sameer Fidai
 
-/* Instructions */
+Instructions
 
 To compile:
    "make"
