@@ -1,5 +1,4 @@
 A unix shell program.
-Sameer Fidai
 
 Instructions
 
